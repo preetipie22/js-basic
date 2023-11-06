@@ -15,7 +15,13 @@ let score = NaN;
 //"" => false
 //"preeti" => true
 
-console.log(typeof score);
-console.log(String(score));
+// console.log(typeof score);
+// console.log(String(score));
 
 //33 => 33
+
+console.log("1" + 2);
+console.log(1+ "2");
+console.log("1" + 2+2);
+console.log(1 +2+"2");
+
